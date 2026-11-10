@@ -26,4 +26,4 @@ Desenvolvedor **Full Stack** em Olímpia-SP. Crio sites, sistemas web e programa
 ## Contato
 
 - E-mail: luizhenriqueperinif@gmail.com
-- LinkedIn: em breve
+- LinkedIn: [linkedin.com/in/luizhperini](https://www.linkedin.com/in/luizhperini)
